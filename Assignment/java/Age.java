@@ -25,6 +25,6 @@ public class Age
 	}
 	public static void main(String[] args)
 	{
-	  validate(2);	
+	  validate(1);	
 	}
 }
